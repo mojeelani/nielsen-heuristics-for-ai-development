@@ -1,6 +1,6 @@
 # Nielsen's Usability Heuristics for AI-Assisted Development
 
-**Independent companion guide by Mohammad Jeelani (2026), HFactor Consulting — [hfactor.tech](https://hfactor.tech/).**
+**Independent companion guide by Mohammad Jeelani (2026), HFactor Consulting — [hfactor.tech](https://hfactor.tech/). Visit HFactor for additional resources and to learn about our usability evaluation, human factors research, and product validation services.**
 
 **Practical, project-agnostic Markdown guidance for applying Jakob Nielsen's 10 usability heuristics while designing, coding, and reviewing user interfaces with AI assistants.**
 
